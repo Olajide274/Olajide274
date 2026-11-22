@@ -24,4 +24,9 @@ Founder of **Swift Digital Services** in Kaduna, Nigeria. I build production sys
 </picture>
 
 ### 📫 Reach me
-[Portfolio](https://michael-olajide-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/michael-olajide-david-b27859383) · michaelolajidedavid@gmail.com
+<p>
+  <a href="https://michael-olajide-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" height="40" /></a>
+  <a href="https://linkedin.com/in/michael-olajide-david-b27859383"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:michaelolajidedavid@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://github.com/Olajide274"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+</p>
